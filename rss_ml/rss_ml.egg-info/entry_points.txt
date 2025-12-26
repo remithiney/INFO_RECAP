@@ -1,2 +1,0 @@
-[console_scripts]
-rssml = rss_ml.pipeline.run:app
